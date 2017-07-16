@@ -12,6 +12,7 @@
 #include "commTypes.h"
 #include "Communication.h"
 #include "Serial.h"
+#include "Udp.h"
 #include <stdio.h>
 
 #endif /* INC_MAIN_H_ */
